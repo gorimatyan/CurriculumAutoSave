@@ -1,3 +1,6 @@
+/**
+ * テーブルにheight: autoを追加する
+ */
 function addHeightAuto() {
 	const tables = document.getElementsByClassName('v-data-table__wrapper');
 	const tablesLength = tables.length;
